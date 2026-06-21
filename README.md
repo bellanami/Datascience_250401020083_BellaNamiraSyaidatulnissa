@@ -24,12 +24,12 @@ Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung men
 | Sesi | Topik Pembelajaran | Tautan Dokumentasi |
 | :---: | :--- | :---: |
 | **Sesi 1** | Pengenalan Data Science dan Cakupan Kerja | [Buka Notebook](Pertemuan1_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
-| **Sesi 2** | Struktur Data Python, NumPy, dan Pandas | [Buka Notebook](./sesi-2/numpy_pandas.ipynb) |
-| **Sesi 3** | Data Cleaning: Missing Values, Outliers, dan Ekstraksi | [Buka Notebook](./sesi-3/data_cleaning.ipynb) |
-| **Sesi 4** | Statistika Dasar dan Analisis Data Eksploratif (EDA) | [Buka Notebook](./sesi-4/statistika_dasar.ipynb) |
-| **Sesi 5** | Visualisasi Data dan Penyajian Informasi Grafik | [Buka Notebook](./sesi-5/visualisasi_data.ipynb) |
-| **Sesi 6** | Persiapan Data (Feature Engineering & Scaling) | [Buka Notebook](./sesi-6/persiapan_data.ipynb) |
-| **Sesi 7** | Pengantar Machine Learning: Model Regresi Linier | [Buka Notebook](./sesi-7/regresi_linier.ipynb) |
+| **Sesi 2** | Struktur Data Python, NumPy, dan Pandas | [Buka Notebook](Pertemuan2_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 3** | Data Cleaning: Missing Values, Outliers, dan Ekstraksi | [Buka Notebook](Pertemuan3_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 4** | Statistika Dasar dan Analisis Data Eksploratif (EDA) | [Buka Notebook](Pertemuan4_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 5** | Visualisasi Data dan Penyajian Informasi Grafik | [Buka Notebook](Pertemuan5_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 6** | Persiapan Data (Feature Engineering & Scaling) | [Buka Notebook](Pertemuan6_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 7** | Pengantar Machine Learning: Model Regresi Linier | [Buka Notebook](Pertemuan7_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 
 *Catatan: Struktur tautan di atas dapat disesuaikan kembali dengan hierarki direktori aktual pada repositori ini.*
 
