@@ -50,4 +50,4 @@ Seluruh proses analisis, manipulasi, dan pemodelan data dalam repositori ini dii
 ### Metode 1: Eksekusi Lokal (Lokal)
 1. Lakukan kloning terhadap repositori ini ke direktori lokal Anda:
    ```bash
-   git clone [https://github.com/bellanami/Datascience_250401020083_BellaNamiraSyaidatulnissa.git
+   git clone https://github.com/bellanami/Datascience_250401020083_BellaNamiraSyaidatulnissa.git
