@@ -11,7 +11,7 @@ Prodi: S1 PJJ Informatika
 ---
 
 ## 📝 Deskripsi Repositori
-Repositori ini disusun untuk mendokumentasikan proses pemahaman fundamental serta penerapan praktis dalam bidang Data Science. Fokus utama dari rangkaian pembelajaran ini adalah penguasaan alur kerja analisis data secara komprehensif—mulai dari tahap eksplorasi awal, manipulasi data, reduksi noise, hingga penerapan model prediktif berbasis statistik.
+Repositori ini disusun untuk mendokumentasikan proses pemahaman fundamental serta penerapan praktis dalam bidang Data Science. Fokus utama dari rangkaian pembelajaran ini adalah penguasaan alur kerja analisis data secara komprehensif mulai dari tahap eksplorasi awal, manipulasi data, reduksi noise, hingga penerapan model prediktif berbasis statistik.
 
 Di dalam repositori ini, terdapat rangkaian file Jupyter Notebook (`.ipynb`) yang disusun secara kronologis. Setiap notebook merepresentasikan implementasi studi kasus nyata yang mencakup pembersihan data (*data cleaning*), analisis statistik deskriptif, visualisasi data berbasis *storytelling*, serta pemodelan prediktif menggunakan algoritma Regresi Linier.
 
