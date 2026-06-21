@@ -23,7 +23,7 @@ Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung men
 
 | Sesi | Topik Pembelajaran | Tautan Dokumentasi |
 | :---: | :--- | :---: |
-| **Sesi 1** | Pengenalan Data Science dan Cakupan Kerja | [Buka Notebook](./sesi-1/pengenalan_ds.ipynb) |
+| **Sesi 1** | Pengenalan Data Science dan Cakupan Kerja | [Buka Notebook](https://github.com/bellanami/Datascience_250401020083_BellaNamiraSyaidatulnissa/blob/main/Pertemuan1_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 2** | Struktur Data Python, NumPy, dan Pandas | [Buka Notebook](./sesi-2/numpy_pandas.ipynb) |
 | **Sesi 3** | Data Cleaning: Missing Values, Outliers, dan Ekstraksi | [Buka Notebook](./sesi-3/data_cleaning.ipynb) |
 | **Sesi 4** | Statistika Dasar dan Analisis Data Eksploratif (EDA) | [Buka Notebook](./sesi-4/statistika_dasar.ipynb) |
