@@ -4,9 +4,9 @@ Repositori ini berfungsi sebagai dokumentasi resmi dan portofolio digital untuk 
 
 ## 👤 Identitas Mahasiswa
 Nama: Bella Namira Syaidatulnissa
-NIM: 250401020083
-Kelas: 250401020083
-Prodi: S1 PJJ Informatika
+<br>NIM: 250401020083
+<br>Kelas: 250401020083
+<br>Prodi: S1 PJJ Informatika
 
 ---
 
