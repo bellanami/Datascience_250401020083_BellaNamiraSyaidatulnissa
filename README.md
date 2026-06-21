@@ -43,6 +43,17 @@ Seluruh proses analisis, manipulasi, dan pemodelan data dalam repositori ini dii
 * **Pembersihan & Pemodelan Data:** Scikit-Learn (sklearn)
 * **Lingkungan Pengembangan:** Jupyter Notebook / Google Colab
 
+### Kesimpulan Pembelajaran Sesi 1–7
+
+Dari rangkaian pembelajaran ini, **POV saya dapat belajar tentang:**
+
+* **Dasar & Alat Kerja (Sesi 1-2):** Saya belajar konsep dasar *Data Science* serta menguasai bahasa **Python** beserta dua pustaka utamanya, **NumPy dan Pandas**, untuk memanipulasi data.
+* **Pembersihan Data (Sesi 3 & 6):** Saya belajar cara menangani data mentah yang "kotor", seperti mengatasi data hilang (*missing values*), menyaring data aneh (*outliers*), hingga melakukan **persiapan data** agar siap diproses.
+* **Analisis & Visualisasi (Sesi 4-5):** Saya belajar menerapkan **statistika dasar** untuk membaca pola data dan menyajikannya ke dalam **visualisasi grafik** yang estetik serta mudah dipahami.
+* **Pemodelan Awal (Sesi 7):** Saya mulai melangkah ke dunia *Machine Learning* dengan mempelajari **Regresi Linier** untuk membuat prediksi nilai di masa depan berdasarkan data yang ada.
+
+> **Ringkasan:** Saya belajar alur kerja *end-to-end* seorang *Data Scientist*—mulai dari cara mengambil data mentah, merapikannya, mencari *insight*, hingga membuat model prediksi sederhana.
+
 ---
 
 ## Petunjuk Pengoperasian Notebook
