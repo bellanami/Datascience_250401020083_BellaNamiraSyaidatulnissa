@@ -2,7 +2,7 @@
 
 Repositori ini berfungsi sebagai dokumentasi resmi dan portofolio digital untuk seluruh rangkaian materi, latihan kode, dan proyek analisis data yang telah diselesaikan dari Sesi 1 hingga Sesi 7.
 
-## 👤 Identitas Mahasiswa
+## Identitas Mahasiswa
 Nama: Bella Namira Syaidatulnissa
 <br>NIM: 250401020083
 <br>Kelas: 250401020083
@@ -10,14 +10,14 @@ Nama: Bella Namira Syaidatulnissa
 
 ---
 
-## 📝 Deskripsi Repositori
+## Deskripsi Repositori
 Repositori ini disusun untuk mendokumentasikan proses pemahaman fundamental serta penerapan praktis dalam bidang Data Science. Fokus utama dari rangkaian pembelajaran ini adalah penguasaan alur kerja analisis data secara komprehensif mulai dari tahap eksplorasi awal, manipulasi data, reduksi noise, hingga penerapan model prediktif berbasis statistik.
 
 Di dalam repositori ini, terdapat rangkaian file Jupyter Notebook (`.ipynb`) yang disusun secara kronologis. Setiap notebook merepresentasikan implementasi studi kasus nyata yang mencakup pembersihan data (*data cleaning*), analisis statistik deskriptif, visualisasi data berbasis *storytelling*, serta pemodelan prediktif menggunakan algoritma Regresi Linier.
 
 ---
 
-## 📚 Daftar Sesi dan Tautan Notebook
+## Daftar Sesi dan Tautan Notebook
 
 Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung menuju file Jupyter Notebook pada setiap sesi:
 
@@ -35,7 +35,7 @@ Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung men
 
 ---
 
-## 🛠️ Perangkat Lunak dan Pustaka (Tools & Libraries)
+## Perangkat Lunak dan Pustaka (Tools & Libraries)
 Seluruh proses analisis, manipulasi, dan pemodelan data dalam repositori ini diimplementasikan menggunakan bahasa pemrograman **Python** dengan dukungan beberapa pustaka standar industri berikut:
 * **Bahasa Pemrograman:** Python 3.x
 * **Manipulasi & Analisis Struktur Data:** Pandas, NumPy
@@ -45,7 +45,7 @@ Seluruh proses analisis, manipulasi, dan pemodelan data dalam repositori ini dii
 
 ---
 
-## 🚀 Petunjuk Pengoperasian Notebook
+## Petunjuk Pengoperasian Notebook
 
 ### Metode 1: Eksekusi Lokal (Lokal)
 1. Lakukan kloning terhadap repositori ini ke direktori lokal Anda:
