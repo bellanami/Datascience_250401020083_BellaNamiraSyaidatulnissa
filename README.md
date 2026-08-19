@@ -53,10 +53,14 @@ Seluruh proses analisis, manipulasi, dan pemodelan data dalam repositori ini dii
 Dari rangkaian pembelajaran ini, saya dapat belajar tentang alur kerja komprehensif untuk mengubah data mentah menjadi solusi berbasis data dan AI:
 
 Pra-Pemrosesan & Exploratory Data Analysis (Sesi 1–6): Menguasai fondasi Python (NumPy/Pandas), teknik data cleaning, analisis statistik, visualisasi data, hingga feature engineering dan scaling.
+
 Supervised Learning & Evaluasi (Sesi 7, 9, 10): Mempelajari prediksi nilai kontinu (Regresi Linier), klasifikasi data (Logistic Regression & Decision Trees), evaluasi performa model (F1-Score, Confusion Matrix), metode ensemble (Random Forest), serta penanganan imbalanced dataset.
+
 Unsupervised Learning & Rekomendasi (Sesi 11–12): Mengelompokkan data tanpa label (K-Means & Hierarchical Clustering), menentukan jumlah kluster (Elbow Method), menganalisis pola transaksi (Apriori), serta membangun sistem rekomendasi.
+
 Deep Learning & NLP Dasar (Sesi 13): Mengenal arsitektur Artificial Neural Network (ANN) dan pemrosesan teks menggunakan TF-IDF untuk analisis sentimen.
 Secara umum, kurikulum ini memberikan keterampilan utuh mulai dari pembersihan data, eksplorasi, pemodelan Machine Learning, hingga pengenalan Deep Learning dan NLP.
+
 ---
 
 ## Petunjuk Pengoperasian Notebook
