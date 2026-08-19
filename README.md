@@ -57,7 +57,7 @@ Dari rangkaian pembelajaran ini, saya dapat belajar tentang:
 * **Analisis & Visualisasi (Sesi 4-5):** Saya belajar menerapkan **statistika dasar** untuk membaca pola data dan menyajikannya ke dalam **visualisasi grafik** yang estetik serta mudah dipahami.
 * **Pemodelan Awal (Sesi 7):** Saya mulai melangkah ke dunia *Machine Learning* dengan mempelajari **Regresi Linier** untuk membuat prediksi nilai di masa depan berdasarkan data yang ada.
 
-> **Ringkasan:** Saya belajar alur kerja *end-to-end* seorang *Data Scientist*—mulai dari cara mengambil data mentah, merapikannya, mencari *insight*, hingga membuat model prediksi sederhana.
+> **Ringkasan:** Saya belajar alur kerja *end-to-end* seorang *Data Scientist* mulai dari cara mengambil data mentah, merapikannya, mencari *insight*, hingga membuat model prediksi sederhana.
 
 ---
 
