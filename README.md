@@ -1,6 +1,6 @@
 # Dokumentasi Portofolio Data Science: Sesi 1–7
 
-Repositori ini berfungsi sebagai dokumentasi resmi dan portofolio digital untuk seluruh rangkaian materi, latihan kode, dan proyek analisis data yang telah diselesaikan dari Sesi 1 hingga Sesi 7.
+Repositori ini berfungsi sebagai dokumentasi resmi dan portofolio digital untuk seluruh rangkaian materi, latihan kode, dan proyek analisis data yang telah diselesaikan dari Sesi 1 hingga Sesi 13.
 
 ## Identitas Mahasiswa
 Nama: Bella Namira Syaidatulnissa
