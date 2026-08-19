@@ -30,13 +30,10 @@ Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung men
 | **Sesi 5** | Visualisasi Data dan Penyajian Informasi Grafik | [Buka Notebook](Pertemuan5_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 6** | Persiapan Data (Feature Engineering & Scaling) | [Buka Notebook](Pertemuan6_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 7** | Pengantar Machine Learning: Model Regresi Linier | [Buka Notebook](Pertemuan7_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
-| **Sesi 9** | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan
-F1-Score. | [Buka Notebook](Pertemuan9_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 9** | Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score. | [Buka Notebook(Pertemuan9_BellaNamiraSyaidatulnissa_250401020083.ipynb)|
 | **Sesi 10** | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. | [Buka Notebook](Pertemuan10_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
-| **Sesi 11** | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlah
-cluster optimal. | [Buka Notebook](Pertemuan11_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
-| **Sesi 12** | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsep
-Collaborative/Content-Based Filtering. | [Buka Notebook](Pertemuan12_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 11** | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlahcluster optimal. | [Buka Notebook](Pertemuan11_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 12** | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsepCollaborative/Content-Based Filtering. | [Buka Notebook](Pertemuan12_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 13** | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana
 dengan TF-IDF untuk analisis sentimen. | [Buka Notebook](Pertemuan13_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 
