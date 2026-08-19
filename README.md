@@ -34,8 +34,7 @@ Tabel di bawah ini memuat rincian topik pembelajaran beserta tautan langsung men
 | **Sesi 10** | Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan penanganan Imbalanced Dataset. | [Buka Notebook](Pertemuan10_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 11** | Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering, dan Metode Elbow untuk menentukan jumlahcluster optimal. | [Buka Notebook](Pertemuan11_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 | **Sesi 12** | Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori (Market Basket Analysis) dan konsepCollaborative/Content-Based Filtering. | [Buka Notebook](Pertemuan12_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
-| **Sesi 13** | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana
-dengan TF-IDF untuk analisis sentimen. | [Buka Notebook](Pertemuan13_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
+| **Sesi 13** | Pengantar Deep Learning & NLP Dasar: konsep dasar Artificial Neural Network, serta pemrosesan teks sederhana dengan TF-IDF untuk analisis sentimen. | [Buka Notebook](Pertemuan13_BellaNamiraSyaidatulnissa_250401020083.ipynb) |
 
 *Catatan: Struktur tautan di atas dapat disesuaikan kembali dengan hierarki direktori aktual pada repositori ini.*
 
